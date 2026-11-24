@@ -39,9 +39,7 @@ La arquitectura obligatoriamente será cliente-servidor, pero debes tener en cue
 
 ### Diagrama de red
 
-<figure><img src=".gitbook/assets/axoview-export-2026-11-10T19_56_01.640Z.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/mermaid-diagram-2026-11-24-190301.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/axoview-export-2026-11-24T19_37_05.590Z.png" alt=""><figcaption></figcaption></figure>
 
 | **Componente**     | **Rol en la arquitectura**                                                                                                               | **Flujo principal / Puerto habitual**                                       |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
